@@ -17,8 +17,8 @@
     border-radius: 5px;
     cursor: pointer;
 }
-.carousel {
-    height: 500px;
+.carousel-indicators{
+    bottom: 0;
 }
 .carousel-indicators .active {
     background-color: #fff;
